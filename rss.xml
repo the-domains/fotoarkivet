@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[fotoarkivet]]></title>
-        <description><![CDATA[fotoarkivet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Fotoarkivet Jon Fjeldstad]]></title>
+        <description><![CDATA[Fotoarkivet Jon Fjeldstad]]></description>
+        <link>https://thegrid.ai/fotoarkivet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 18:45:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 20:02:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fotoarkivet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71349096-f7d4-4190-adbb-d4d6b9f4792b.jpg">]]></description>
-            <link>undefinedvideographer-and-photographer-based-in-norway-where-i-specia/index.html</link>
+            <link>https://thegrid.ai/fotoarkivet/videographer-and-photographer-based-in-norway-where-i-specia/index.html</link>
             <guid isPermaLink="false">f5c132c7-7262-45c0-b9c8-1a21db8c2122</guid>
-            <pubDate>Fri, 13 May 2016 18:45:23 GMT</pubDate>
+            <pubDate>Fri, 13 May 2016 20:02:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
